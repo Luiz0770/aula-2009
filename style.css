@@ -15,7 +15,7 @@ body {
 }
 /* Rodapé*/
 footer {
-    background-color: #343528;
+    background-color: #161613;
     color: #fff;
     padding: 50px 0px;
     text-align: center;
@@ -46,7 +46,6 @@ footer {
 @media (min-width: 768px){
     body {
         background-color: #ffffff;
-        color: #fff
     }
 }
 /* Tablet Landscape */
