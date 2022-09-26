@@ -3,6 +3,13 @@
   * @author seu nome
   */
 /* Layout*/
+
+/* Css Reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .flexFooter {
     display: flex;
     flex-direction: column-reverse;
