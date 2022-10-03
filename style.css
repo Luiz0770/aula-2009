@@ -17,14 +17,22 @@
 
 }
 
+.flexDestaque {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 25px;
+}
 
+.card {
+    margin-top: 25px;
+}
 
 /* Smartphone Portrait */
 body {
     background-color: #ffffff;
 }
-
-
 
 /** Banner video **/
 .video-background-holder {
